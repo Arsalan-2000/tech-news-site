@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="International news coverage of technology, industry and artificial intelligence.">
+<title>Global Brief | AI & Industry Summit</title>
+<style>
+:root{--navy:#10243a;--navy2:#183754;--red:#c83b45;--ink:#202a35;--muted:#687586;--line:#e3e8ee;--bg:#f3f6f9}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font-family:Arial,Helvetica,sans-serif;line-height:1.7}a{color:inherit;text-decoration:none}
+.topbar{background:var(--red);color:#fff;padding:7px 20px;font-size:12px;letter-spacing:.08em}
+.wrap{max-width:1120px;margin:auto;padding-left:22px;padding-right:22px}
+header{background:var(--navy);color:#fff}.header-main{min-height:96px;display:flex;align-items:center;justify-content:space-between;gap:22px}
+.brand{font-weight:800;font-size:30px;letter-spacing:-.04em}.brand span{color:#f16a72}.tagline{color:#c3d0dc;font-size:12px;margin-top:-4px}.edition{color:#d4dee8;font-size:12px;text-align:right}
+nav{border-top:1px solid #31475b;background:var(--navy2)}.nav-inner{display:flex;gap:25px;overflow-x:auto;white-space:nowrap;padding-top:12px;padding-bottom:12px;font-size:13px}nav a:hover{color:#ffb4b8}
+main{padding-top:30px;padding-bottom:50px}.breadcrumb{font-size:12px;color:var(--muted);margin-bottom:15px}.kicker{color:var(--red);text-transform:uppercase;font-weight:800;letter-spacing:.09em;font-size:11px}
+h1{font-size:clamp(28px,4vw,42px);line-height:1.2;letter-spacing:-.035em;margin:12px 0 14px;max-width:900px}.deck{font-size:18px;color:#526071;max-width:900px;line-height:1.65}
+.byline{display:flex;flex-wrap:wrap;gap:12px;color:var(--muted);font-size:12px;border-top:1px solid var(--line);padding-top:15px;margin-top:20px}
+.hero{margin-top:22px;background:#dce3e9;border-radius:8px;overflow:hidden}.hero img{display:block;width:100%;max-height:680px;object-fit:cover;object-position:center 30%}.image-placeholder{padding:150px 20px;text-align:center;color:#526071}.caption{background:#fff;color:var(--muted);font-size:12px;padding:10px 14px}
+.content-grid{display:grid;grid-template-columns:minmax(0,1fr) 285px;gap:28px;margin-top:28px;align-items:start}.story{background:#fff;border:1px solid var(--line);border-radius:8px;padding:clamp(20px,3vw,34px)}
+.story h2{font-size:22px;line-height:1.35;margin:0 0 12px}.story p,.speaker-copy p{font-size:16px;line-height:1.9}
+.speaker-card{margin-top:28px;background:#fff;border:1px solid var(--line);border-radius:8px;overflow:hidden}.speaker-head{padding:22px 25px 0}.eyebrow{color:var(--red);font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.08em}
+.speaker-head h2{margin:5px 0 0;font-size:25px;line-height:1.3}.role{color:var(--muted);font-size:13px;margin-top:7px}.speaker-copy{padding:10px 25px 25px}.speaker-copy h3{font-size:19px;margin:15px 0 7px}
+aside{background:#fff;border:1px solid var(--line);border-radius:8px;padding:22px}aside h3{margin:0 0 12px;font-size:16px;border-bottom:2px solid var(--red);padding-bottom:10px}
+.side-item{padding:12px 0;border-bottom:1px solid var(--line);font-size:14px;font-weight:700;line-height:1.5}.side-item:last-child{border-bottom:0}.side-item small{display:block;color:var(--muted);font-weight:400;margin-top:5px}
+.note{color:var(--muted);font-size:12px;background:#f8fafc;border-left:3px solid #b9c6d3;padding:12px 14px;margin-top:20px}
+footer{background:#0b1a29;color:#c3ced8}.footer-inner{padding-top:28px;padding-bottom:28px;display:flex;flex-wrap:wrap;justify-content:space-between;gap:18px;font-size:12px}.footer-brand{color:#fff;font-weight:800;font-size:18px}
+@media(max-width:780px){.content-grid{grid-template-columns:1fr}.edition{display:none}.brand{font-size:26px}.nav-inner{gap:18px}}
+</style>
+</head>
+<body>
+<div class="topbar">INDEPENDENT INTERNATIONAL NEWS • TECHNOLOGY • BUSINESS • WORLD</div>
+<header><div class="wrap header-main"><div><div class="brand">GLOBAL<span>BRIEF</span></div><div class="tagline">The stories shaping tomorrow.</div></div><div class="edition">INTERNATIONAL DESK<br>Technology & Industry</div></div>
+<nav><div class="wrap nav-inner"><a href="#">World</a><a href="#">Business</a><a href="#">Technology</a><a href="#">Industry</a><a href="#">Science</a><a href="#">Analysis</a></div></nav></header>
+<main class="wrap">
+<div class="breadcrumb">Home / Technology / Industry & AI</div>
+<div class="kicker">Technology & Industry</div>
+<h1>Artificial Intelligence and the Future of Industry Take Centre Stage at Yerevan Summit</h1>
+<p class="deck">A conference programme in Armenia examines how emerging technologies could reshape industrial operations, productivity and decision-making.</p>
+<div class="byline"><span>By Global Brief News Desk</span><span>International Coverage</span><span>Conference Report</span></div>
+<figure class="hero"><img src="1.png"
+<div class="content-grid"><div>
+<article class="story">
+<h2>Industry explores the next phase of intelligent technology</h2>
+<p>Artificial intelligence is increasingly being considered as a practical tool for industrial organisations seeking to improve productivity, analyse operational data and make better-informed decisions. Applications may include predictive maintenance, quality control, production planning and supply-chain management.</p>
+<p>While these applications can offer significant opportunities, successful implementation depends on reliable data, suitable digital infrastructure, workforce training and a clear understanding of the problem a system is intended to solve. AI is not a substitute for sound engineering or management; its value depends on how effectively it is integrated into real operational processes.</p>
+<p>The event's broader theme reflects a growing international conversation about the relationship between advanced computing and industrial development, including the opportunities and challenges facing businesses as they adopt data-driven tools.</p>
+</article>
+<section class="speaker-card"><div class="speaker-head"><div class="eyebrow">Featured Session</div>
+<h2>AI Applications in Industry and the Road Ahead</h2>
+<div class="role">Mohammad Ahmadi Pashkam · Industrial Engineering Student & Industrial Project Optimisation Specialist</div></div>
+<div class="speaker-copy">
+<p>One session featured Mohammad Ahmadi Pashkam, an industrial engineering student and specialist in industrial project optimisation, discussing the applications and impact of artificial intelligence in industrial processes and its potential role in the sector's future development.</p>
+<p>AI-supported data analysis and process optimisation can help organisations identify inefficiencies, anticipate some operational issues and improve the allocation of resources. For industrial teams, the challenge is to connect these tools to measurable goals such as reliability, quality, cost control and production performance.</p>
+<p>The subject also highlights the importance of combining engineering knowledge with emerging digital technologies. Choosing appropriate use cases, preparing staff and evaluating results are essential steps when moving from experimentation to practical industrial adoption.</p>
+</div></section>
+<div class="note"><strong>Editorial note:</strong> This is a sample news layout. Confirm the event's official name, date, organiser and session details before publication. The session summary is general topic coverage, not a verified transcript or direct quotation.</div>
+</div>
+<aside><h3>IN THIS REPORT</h3>
+<div class="side-item">AI and industrial productivity<small>How data-driven tools can support operations</small></div>
+<div class="side-item">Smarter maintenance and quality control<small>Potential applications across production</small></div>
+<div class="side-item">Featured session in Yerevan<small>Mohammad Ahmadi Pashkam</small></div>
+<div class="side-item">The road to adoption<small>Skills, infrastructure and measurable outcomes</small></div>
+</aside></div></main>
+<footer><div class="wrap footer-inner"><div><div class="footer-brand">GLOBALBRIEF</div><div>The stories shaping tomorrow.</div></div><div>World News · Technology · Business · Industry<br>© Global Brief — Demo news page</div></div></footer>
+</body></html>
